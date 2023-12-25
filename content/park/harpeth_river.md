@@ -19,7 +19,7 @@ There are three things I look for when visiting a state park:
 2.	A nice walk (to see the sights)
 3.	A spiritual destination: something strange, singular, and sublime that gives a little meaning to my visit (this is MOST important)
 
-This week, I am happy to report that **Harpeth River State Park**, which I visited a few weeks ago in the heart of middle Tennessee, is a shining example for all three of these criteria.
+This week, I am happy to report that **Harpeth River State Park**, which I visited at the beginning of this month in the heart of middle Tennessee, is a shining example for all three of these criteria.
 
 The water is pretty self explanatory: the park lies along 40 miles of the Harpeth River, a lumbering, limestone green tributary that juts south from the Cumberland. I knew that it was everything that a good river should be when, getting out my car in the parking lot, I could already hear the siren song murmur of water churning over rocks, that, even on the cool December day of my visit, made the appeal of the water difficult to resist.
 
@@ -37,9 +37,9 @@ The tunnel – 290 feet long, 15 feet wide, and 8 feet tall – was used to dive
 
 Now, I'll be honest with you: I wanted to feel the magic of this hidden little alcove. I wanted to stand in the mouth of the tunnel and be so-o-o moved by the engineering and labor it took to open up that rocky corridor. But here, the tunnel mostly just struck me as... a hole in a rock.
 
-I don’t intend that’s a particular knock on Mr. Bell's tunnel; all tunnels are, inherently, an absence of something. They have no substance of their own to be admired; they are an indication of something missing. And, for me, that missigness is inherently unsatisfying (or at least, I found it to be so on this particular day).
+I don’t intend that as a particular knock on Mr. Bell's tunnel; all tunnels are, inherently, an absence of something. They have no substance of their own to be admired; they are an indication of something missing. And, for me, that missigness is inherently unsatisfying (or at least, I found it to be so on this particular day).
 
-Luckily, at Harpeth River, that which is missing didn’t have far to go. The limestone chunks that previously occupied the space that is now the Montgomery Bell tunnel sit like jumbled tombstones just on the bank of the reflecting pool, exactly where (presumably) Mr. Bell had them left two hundred odd years ago. After I concluded my short examination of the tunnel, I turned my attention to these boulders, and began to search for a rock to skip.
+Luckily, at Harpeth River, that which is missing didn’t have far to go. The limestone chunks that previously occupied the space that is now the Montgomery Bell tunnel sit like jumbled tombstones just on the bank of the reflecting pool, exactly where (presumably) Mr. Bell had them left two hundred odd years ago. And so, fter I concluded my short examination of the tunnel, I turned my attention to these boulders, and began to search for a rock to skip.
 
 ![](/the_rocks.png#center)
 
@@ -47,7 +47,7 @@ I like skipping rocks. I spent a lot of time as a kid throwing rocks into bodies
 
 Through this process, I often found myself reflecting on how, from the point of view of the rock, our relationship must have seemed like an extraordinary twist of fate. Think - for tens, hundreds, or even thousands of years, each day in that rock’s life had been routine: the same little spot on the bank, the sun casting familiar shadows. But then, suddenly, warm (dry?) fingers. The experience of flight! And PLUNK - into the water, where suddenly everything is different – the start of a new normal, day by day at the bottom of the brook.
 
-At Harpeth River, I was reminded of these musings as I began searching for flat pebbles amongst the rubble left on the bank by the tunnel’s construction. Much like the skipping rocks of my childhood, these stones had enjoyed a very routine existence for many, many years as a limestone wall, interrupted by one VERY unusual encounter with a nineteenth century hand drill. For a brief moment, their lives were in glorious, tumbling motion! New light, new air, new water - all of it changing quickly, from second to second! But then, just as quickly, these old stones were again at rest...
+At Harpeth River, I was reminded of these musings as I began searching for flat pebbles amongst the rubble left on the bank. Much like the skipping rocks of my childhood, these stones had enjoyed a very routine existence for many, many years as a limestone wall, interrupted by one VERY unusual encounter with a nineteenth century hand drill. For a brief moment, their lives were in glorious, tumbling motion! New light, new air, new water - all of it changing quickly, from second to second! But then, just as quickly, these old stones were again at rest...
 
 Or they were, until I began to pick up a few of their smaller friends and skip them across the water’s surface.
 

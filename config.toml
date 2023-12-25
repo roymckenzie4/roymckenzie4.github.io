@@ -1,0 +1,12 @@
+theme = "arkansas"
+baseURL = "http://example.org/"
+languageCode = 'en-us'
+title = "home"
+
+# Menu
+[menu]
+  # Header menu
+  [[menu.main]]
+    url = "/park/"
+    name = "state parked"
+    weight = 1

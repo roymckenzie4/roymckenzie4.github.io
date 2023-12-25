@@ -1,0 +1,12 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="stylesheet" href="/css/style.css">
+  <title>
+    {{- block "title" . -}}
+    {{.Title}}{{if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}
+    {{- end -}}
+  </title>
+
+</head>

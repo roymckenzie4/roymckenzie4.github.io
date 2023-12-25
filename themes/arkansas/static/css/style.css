@@ -1,0 +1,74 @@
+:root {
+  --mainColor: rgba(221,40,3,.5);
+}
+
+body {
+  line-height: 1.6;
+  /*color: #444;*/
+  color: #d9d9d9;
+  background: #000;
+  font-size: 18px;
+  max-width: 650px;
+  margin: 40px auto;
+  padding: 0 10px;
+  font-family: palatino, 'palatino linotype', georgia, serif;
+}
+
+h1,h2,h3 {
+  line-height: 1.2;
+  font-size: 30px;
+}
+
+a {
+  background:
+    linear-gradient(
+      to bottom, var(--mainColor) 0%,
+      var(--mainColor) 100%
+    );
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-size: 4px 4px;
+  color: #d9d9d9;
+  text-decoration: none;
+  transition: background-size .3s;
+}
+
+a:hover {
+  background-size: 4px 50px;
+}
+
+div.header h1 {
+  padding-top: 0;
+  padding-bottom: 8px;
+  margin-bottom: 24px;
+  font-size: 18px;
+  font-weight: 400;
+  border-bottom: 1px solid;
+}
+
+.header-menu {
+  float: right;
+}
+
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#floatleft']
+{
+    float:left;
+    margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#floatright']
+{
+    float:right;
+    margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+}

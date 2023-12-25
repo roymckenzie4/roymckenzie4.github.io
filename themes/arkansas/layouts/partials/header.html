@@ -1,0 +1,12 @@
+{{ block "header" . }}
+<div class="header">
+  <h1>
+    <a href="{{ .Site.BaseURL | relLangURL }}">{{- .Site.Title -}}</a>
+    <div class="header-menu">
+      {{- range .Site.Menus.main -}}
+      <a href="{{ .URL | relLangURL }}">{{- .Name -}}</a>
+      {{ end }}
+    </div>
+  </h1>
+</div>
+{{ end }}

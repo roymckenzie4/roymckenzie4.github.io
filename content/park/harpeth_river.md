@@ -19,7 +19,7 @@ There are three things I look for when visiting a state park:
 2.	A nice walk (to see the sights)
 3.	A spiritual destination: something strange, singular, and sublime that gives a little meaning to my visit (this is MOST important)
 
-This week, I am happy to report that **Harpeth River State Park**, which I visited last week in the heart of middle Tennessee, can proudly claim to meet all three of my criteria.
+This week, I am happy to report that **Harpeth River State Park**, which I visited a few weeks ago in the heart of middle Tennessee, is a shining example for all three of these criteria.
 
 The water is pretty self explanatory: the park lies along 40 miles of the Harpeth River, a lumbering, limestone green tributary that juts south from the Cumberland. I knew that it was everything that a good river should be when, getting out my car in the parking lot, I could already hear the siren song murmur of water churning over rocks, that, even on the cool December day of my visit, made the appeal of the water difficult to resist.
 
@@ -53,7 +53,7 @@ Or they were, until I began to pick up a few of their smaller friends and skip t
 
 I empathize with these Harpeth rocks. My life too, lately, has been marked by stretches of stability, broken up by sudden skips across the water. These skips might be scary – like getting in a car accident or getting picked up by a tornado. They might be good – like winning the lottery or finding a new friend. In either case, they often leave me falling, flying, and tumbling in turmoil, uprooted suddenly from the calm (but stagnant?) bank that I had occupied.
 
-I have never been said to do well with change, and in these moments, it’s easy to focus on the tunnel – the space I left in the life I just occupied, before the forces of nature and chance picked me up and spun me around. But the real beauty of the tunnel isn't that something is missing - it's that something once was there. The real meaning of my trip to Harpeth River wasn't the tunnel, or even the rocks themselves, but instead the movement and change that they are a monument to.
+No one has ever accused me of doing well with change, and in these moments, it’s easy to focus on the tunnel – the space left behind in the life I just occupied, before the forces of chance picked me up and spun me around. But the real beauty of a tunnel isn't that something is missing - it's that something once was there. The real meaning of my trip to Harpeth River wasn't the tunnel, or even the rocks themselves, but instead the movement and change that they are a monument to.
 
 There's a new year coming, and I think I'm going to lie down, try to be as flat as I can, and lean into the skip – be it fly, flow, or flop. If I've got to move, I'd at least like to get a couple nice bounces out of it!
 
